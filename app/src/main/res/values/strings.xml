@@ -3,4 +3,5 @@
     <string name="edit_message">Name of ingredient</string>
     <string name="button_add">Add</string>
     <string name="data_add">The term of validity</string>
+    <string name="button_show">Show</string>
 </resources>
