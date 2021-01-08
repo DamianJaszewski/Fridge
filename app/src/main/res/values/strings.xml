@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">FridgeWithoutNav</string>
+    <string name="edit_message">Name of ingredient</string>
+    <string name="button_add">Add</string>
 </resources>
